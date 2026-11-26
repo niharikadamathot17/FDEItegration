@@ -1,0 +1,11 @@
+[project]
+name = "my-project"
+version = "0.1.0"
+description = "Service Integration"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [
+  { name = "Niharika Damathoti", email = "you@example.com" }
+]
+dependencies = []
